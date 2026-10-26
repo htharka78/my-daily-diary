@@ -1,0 +1,11 @@
+{
+  "name": "My Daily Diary",
+  "short_name": "Daily Diary",
+  "description": "A private daily diary for events, reflection and planning.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f6f8",
+  "theme_color": "#334155"
+}
